@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm HAKMI Mohammed aka Simo672K</h1>
 <h3 align="center>i LoVe oSs BtW</h3>
 
-<p align="left">
+<p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Simo672K&label=Profile%20views&color=0e75b6&style=flat"
     alt="medafkir"
