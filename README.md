@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm HAKMI Mohammed aka Simo672K</h1>
+<h1 align="center">Hi 👋, I'm Simo672K</h1>
 <h3 align="center>i LoVe oSs BtW</h3>
 
 <p align="center">
